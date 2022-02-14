@@ -1,0 +1,63 @@
+h1{
+    color:#C55394;
+   text-decoration: underline;
+   font-family: 'Courgette', 'cursive';
+   
+   
+}
+#rangement{
+display:flex;
+justify-content: space-around;
+color:#E577B5;
+}
+h2{
+    color:#EB43A3;
+    font-size:x-large;
+    text-align: center;
+    background-image: url(img/rai.png);
+
+}
+ul{
+    color:#C55394 ;
+}
+.my {
+    color:#C55394;
+    text-align: center;
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body{
+    font-family:'Arial', sans-serif; 
+    background-image: url(img/bg.png);
+}
+em{
+    font-weight: lighter;
+}
+.merci{
+    text-decoration: underline;
+}
+footer{
+    color:#E577B5;
+    display:flex;
+    justify-content: space-around;
+
+}
+.figure{
+    display:flex;
+justify-content: space-around;
+color:#E577B5;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
